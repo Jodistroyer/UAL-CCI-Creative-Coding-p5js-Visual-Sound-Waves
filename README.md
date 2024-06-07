@@ -21,3 +21,12 @@ This project combines music playback with dynamic wave visualization using p5.js
 
 ## Dependencies
 - p5.js: A JavaScript library for creative coding, providing a full set of drawing functionality.
+
+## Authorship
+A code project by Wong Jo-Hann
+
+23/24 Creative Making: Design and Coding Visuals
+
+Creative Computing BSc class
+
+UAL CCI University Of the Arts London
